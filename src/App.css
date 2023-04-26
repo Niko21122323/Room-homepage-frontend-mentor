@@ -364,6 +364,7 @@ nav {
     display: block;
     background-color: transparent;
     border: none;
+    cursor: pointer;
     z-index: 300;
     padding-left: 20px;
   }
